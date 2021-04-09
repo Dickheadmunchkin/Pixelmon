@@ -1,0 +1,10 @@
+This is what to do with mods 
+
+Make a folder on your desktop then change your game directory 
+in the forge area ask me if you need
+
+
+optifine is optional but not required 
+to install optifine go to your mods folder 
+(%appdata% .minecraft Roaming mods) 
+and drop optifine in there it wont come up but you will have it
